@@ -12,7 +12,7 @@ platformBuildVersionName="11">
     </manifest>
 ```
 apk和jar已经上传，请自取
-##如果对您有帮助，请给我一颗星星感谢。
+##如果对您有帮助，请给我一颗星星感谢.
 ---
 english for machine translation:  
 solve apktool Back compilation apk will change androidmainfest.xml  
@@ -28,6 +28,5 @@ platformBuildVersionName="11">
 <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="30"/>
 </manifest>
 ```
-Apk and jar have been uploaded. Please take them yourself  
-##If it helps you, please give me a star , thank you.  
-
+Apk and jar have been uploaded. Please take them yourself
+##If it helps you, please give me a star , thank you

@@ -1,5 +1,4 @@
 # ApktoolNotChangeVersion
----
 由于apktool的限制,在回编译会覆盖被处理apk的compileSdkVersion属性为23，compileSdkVersionCodename属性为6.0-2438415  
 我通过修改apktool.jar的文件,使apk编译出来为以下版本  
 详细请看我的[csdn-blog](https://blog.csdn.net/weixin_44681497/article/details/124174463)   

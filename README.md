@@ -11,7 +11,7 @@ platformBuildVersionName="11">
     <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="30"/>
     </manifest>
 ```
-apk和jar已经上传，请自取
+apk和jar已经上传，请自取  
 ###如果对您有帮助，请给我一颗星星感谢.
 ---
 english for machine translation:  
@@ -28,5 +28,5 @@ platformBuildVersionName="11">
 <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="30"/>
 </manifest>
 ```
-Apk and jar have been uploaded. Please take them yourself
+Apk and jar have been uploaded. Please take them yourself  
 ###If it helps you, please give me a star , thank you

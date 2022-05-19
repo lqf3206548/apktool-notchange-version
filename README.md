@@ -19,7 +19,7 @@ english for machine translation:
 solve apktool Back compilation apk will change androidmainfest.xml  
 Due to the limitation of apktool, the compilesdkversion attribute of the processed APK is 23 and the compilesdkversioncodename attribute is 6.0-2438415 during back compilation  
 I modified apktool Jar file to compile APK into the following version  
-Details see my [CSDN blog] for details（ https://blog.csdn.net/weixin_44681497/article/details/124174463 )  all was chinese  
+Details see my [CSDN blog](https://blog.csdn.net/weixin_44681497/article/details/124174463)  all was chinese  
 ```
 <manifest
 android:compileSdkVersion="29" 

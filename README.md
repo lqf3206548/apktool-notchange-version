@@ -1,6 +1,8 @@
 # apktool-nochange-compileSdkVersion、compileSdkVersionCodename...
 现在已有的版本,Existing version    
 获取请看分支,get see branch  
+ branchName | compileVersion | compileVersionName
+ ---- | ---- | ---- |
  compile-29 |    
  compile-28 |  
   

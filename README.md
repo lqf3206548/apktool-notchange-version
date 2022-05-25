@@ -2,7 +2,7 @@
 现在已有的版本,Existing version    
 获取请看分支,get see branch  
  branchName | compileSdkVersion | compileSdkVersionCodeName
- ---- | ---- | ---- |
+ :----: | :----: | :----: |
  compile-29 | 29 | 10   
  compile-28 | 28 | 9 
   

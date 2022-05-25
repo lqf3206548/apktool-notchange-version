@@ -1,6 +1,6 @@
 # apktool-nochange-compileSdkVersion、compileSdkVersionCodename...
-现在以有的版本,Now in the existing version
-获取请看分支,get see branch
+现在以有的版本,Now in the existing version  
+获取请看分支,get see branch  
 >compile-29
 >compile-28
 由于apktool的限制,在回编译会覆盖被处理apk的compileSdkVersion属性为23，compileSdkVersionCodename属性为6.0-2438415  
